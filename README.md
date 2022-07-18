@@ -10,6 +10,7 @@ This repository contains following code example
 * Setting up maven dependencies for JUnit 5
 
 
+
 ## Setup
 ### Requirements
 * Should use Java 11 or higher. Previous versions of Java are un-tested.
